@@ -1,7 +1,7 @@
 #include <iostream>
-#include <stdio.h>      /* printf, scanf, puts, NULL */
-#include <stdlib.h>     /* srand, rand */
-#include <time.h>       /* time */
+#include <stdio.h>      
+#include <stdlib.h>     
+#include <time.h>
 using namespace std;
 
 
